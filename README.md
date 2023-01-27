@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/OthmanMoussaoui/Handwritten-digit-recognition/main/Screenshot%202023-01-27%20190906.png"  />
+  <img height="300" src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png"  />
 </div>
 
 ###
